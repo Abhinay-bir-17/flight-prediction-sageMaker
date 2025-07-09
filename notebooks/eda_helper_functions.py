@@ -3,7 +3,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 from matplotlib.gridspec import GridSpec
-# from scipy import stats
+from scipy import stats
 # import statsmodels.api as sm
 from sklearn.preprocessing import (
     PowerTransformer,
